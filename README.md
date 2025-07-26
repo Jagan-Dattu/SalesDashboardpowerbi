@@ -54,4 +54,5 @@ The goal was to derive key insights from sales data, track product profitability
 
 ### 🚀 If you're a recruiter or interviewer:
 Please feel free to explore the PBIX file to interact with the report or view the visuals above for a quick overview of my data storytelling and analytics skills.
+<img width="1693" height="990" alt="image" src="https://github.com/user-attachments/assets/ef2cf6a4-c5a5-4cb1-a6db-9e4bfd7e6137" />
 
